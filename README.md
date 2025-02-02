@@ -22,7 +22,7 @@
 - npm
   <pre>
   <code>
-  npm install express youtube-dl-exec path fs dotenv 
+  npm install
   </code>
   </pre>
   
@@ -66,7 +66,3 @@
   http://localhost:3000/mp4/download?youtubeUrl="download youtube url"
   </code>
   </pre>
-
-
-
-
